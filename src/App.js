@@ -8,7 +8,7 @@ function App()
   return(
 
   <div className="App">
-    <Dinner courtName=" Disttict and Session Court"></Dinner>
+    <Dinner courtName=" Disttict and Session Courts"></Dinner>
   </div> 
   );
 }
